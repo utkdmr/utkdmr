@@ -18,7 +18,4 @@
 </a>&nbsp;
 <a href="https://www.linkedin.com/in/utkudemir/">
   <img alt="Utku's LinkedIn" height="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;
-<a href="https://twitter.com/UtkuDem25055699/">
-  <img alt="Utku's Twitter" height="25"" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
