@@ -12,9 +12,6 @@
 
 ## Contact with me
 
-<a href="https://github.com/utkdmr/">
-  <img alt="Utku's GitHub" height="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>&nbsp;
 <a href="https://www.linkedin.com/in/utkudemir/">
   <img alt="Utku's LinkedIn" height="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
